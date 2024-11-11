@@ -1,5 +1,5 @@
 ## Repository Structure
-- **Gromacs/**: Contains PDB files from molecular dynamics simulations after 200 ns of relaxation, a `.sh` script (e.g., for P720Q) with commands to run Gromacs, and the configuration files used for the analysis.
+- **Gromacs/**: Contains PDB files for molecular dynamics simulations , a `.sh` script (e.g., for P720Q) with commands to run Gromacs, and the configuration files used for the analysis.
 - **Phylogeny/**: Includes files related to phylogenetic analysis, such as tree files (`.treefile`) and visualizations.
 - **ProLif_Interactions_analysis/**:
   - **.pkl/**: Stores `.pkl` files representing data frames with interaction data for the proteins.
