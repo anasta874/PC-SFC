@@ -1,5 +1,4 @@
 *.tif filter=lfs diff=lfs merge=lfs -text
-*.tif filter=lfs diff=lfs merge=lfs -text
 *.py linguist-language=Python
 *.sh linguist-language=Shell
 *.ipynb linguist-language=Jupyter Notebook
