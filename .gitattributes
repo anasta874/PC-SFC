@@ -2,3 +2,4 @@
 *.py linguist-language=Python
 *.sh linguist-language=Shell
 *.ipynb linguist-language=Jupyter Notebook
+
