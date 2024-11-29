@@ -1,6 +1,9 @@
-[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fijms250312697-blue)](https://doi.org/10.3390/ijms250312697)
+## *USP8* Mutations Associated with Cushing’s Disease Alter Protein Structure Dynamics  
+[![DOI](https://img.shields.io/badge/DOI-10.3390%2Fijms252312697-blue)](https://doi.org/10.3390/ijms252312697)
 
-## Repository Structure
+
+
+### Repository Structure
 - **Gromacs/**: Contains a template PDB file, relaxed in a 200 ns simulation, and prepared for subsequent mutagenesis and final 100 ns runs for further comparison. , a `.sh` script (e.g., for P720Q) with commands to run Gromacs, and the configuration files used for the analysis.
 - **Phylogeny/**: Includes files related to phylogenetic analysis, such as tree files (`.treefile`) and visualizations.
 - **ProLif_Interactions_analysis/**:
